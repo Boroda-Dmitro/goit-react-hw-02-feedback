@@ -1,0 +1,12 @@
+.buttonBox {
+display: flex; 
+gap: 10px;
+}
+
+.button {
+    padding: 4px 8px;
+    background-color: #fff;
+    border:  1px solid #ddddddaf;
+    border-radius: 4px;
+    font-weight: 700;
+}
