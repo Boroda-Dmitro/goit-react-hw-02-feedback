@@ -22,7 +22,7 @@ export const Statistics = ({
         Total: <span>{total}</span>
       </p>
       <p className="text">
-        Positiv feedback: <span>{positivePercentage.toFixed(0)}</span>%
+        Positiv feedback: {positivePercentage}%
       </p>
     </div>
   );

@@ -10,3 +10,7 @@ gap: 10px;
     border-radius: 4px;
     font-weight: 700;
 }
+
+.button:active {
+    background-color: rgb(79, 79, 243);
+}
